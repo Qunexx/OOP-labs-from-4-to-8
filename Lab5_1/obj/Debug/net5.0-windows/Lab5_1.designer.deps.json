@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Microsoft.NETFramework.ReferenceAssemblies.net461/1.0.3": {}
+    }
+  },
+  "libraries": {
+    "Microsoft.NETFramework.ReferenceAssemblies.net461/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AmOJZwCqnOCNp6PPcf9joyogScWLtwy0M1WkqfEQ0M9nYwyDD7EX9ZjscKS5iYnyvteX7kzSKFCKt9I9dXA6mA==",
+      "path": "microsoft.netframework.referenceassemblies.net461/1.0.3",
+      "hashPath": "microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512"
+    }
+  }
+}

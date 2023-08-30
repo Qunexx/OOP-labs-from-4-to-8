@@ -1,0 +1,16 @@
+C:\Users\Qunexx\source\repos\Lab8_5\bin\Debug\net5.0\Lab8_5.exe
+C:\Users\Qunexx\source\repos\Lab8_5\bin\Debug\net5.0\Lab8_5.deps.json
+C:\Users\Qunexx\source\repos\Lab8_5\bin\Debug\net5.0\Lab8_5.runtimeconfig.json
+C:\Users\Qunexx\source\repos\Lab8_5\bin\Debug\net5.0\Lab8_5.runtimeconfig.dev.json
+C:\Users\Qunexx\source\repos\Lab8_5\bin\Debug\net5.0\Lab8_5.dll
+C:\Users\Qunexx\source\repos\Lab8_5\bin\Debug\net5.0\Lab8_5.pdb
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.csproj.AssemblyReference.cache
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.AssemblyInfoInputs.cache
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.AssemblyInfo.cs
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.csproj.CoreCompileInputs.cache
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.dll
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\refint\Lab8_5.dll
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.pdb
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\Lab8_5.genruntimeconfig.cache
+C:\Users\Qunexx\source\repos\Lab8_5\obj\Debug\net5.0\ref\Lab8_5.dll

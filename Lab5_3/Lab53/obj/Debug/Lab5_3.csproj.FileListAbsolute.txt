@@ -1,0 +1,11 @@
+C:\Users\Qunexx\Desktop\Lab53\Lab53\bin\Debug\Lab53.exe.config
+C:\Users\Qunexx\Desktop\Lab53\Lab53\bin\Debug\Lab53.exe
+C:\Users\Qunexx\Desktop\Lab53\Lab53\bin\Debug\Lab53.pdb
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab5_3.csproj.AssemblyReference.cache
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab5_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab53.Properties.Resources.resources
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab5_3.csproj.GenerateResource.cache
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab5_3.csproj.CoreCompileInputs.cache
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab53.exe
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab53.pdb
+C:\Users\Qunexx\Desktop\Lab53\Lab53\obj\Debug\Lab53.Form1.resources

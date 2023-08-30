@@ -1,0 +1,10 @@
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe.config
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\bin\Debug\Lab8_4.exe
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\bin\Debug\Lab8_4.pdb
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.AssemblyReference.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.Properties.Resources.resources
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.GenerateResource.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.csproj.CoreCompileInputs.cache
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.exe
+C:\Users\Fin\RiderProjects\Lab8_4\Lab8_4\obj\Debug\Lab8_4.pdb
